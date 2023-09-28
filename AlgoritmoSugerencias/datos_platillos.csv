@@ -1,0 +1,101 @@
+nombre,descripcion,ingredientes,categoria,valor_nutricional,precio,calificacion
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Manzanas, Tomate, Pasta, Queso, Salsa de Tomate",Ensalada,"Calorías: 529, Grasas: 16.0g, Proteínas: 9.9g, Carbohidratos: 52.0g",$10.18,3.7
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Lechuga, Helado",Plato Principal,"Calorías: 443, Grasas: 4.4g, Proteínas: 13.2g, Carbohidratos: 31.3g",$12.15,4.8
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Albahaca, Pollo, Zanahoria",Plato Principal,"Calorías: 535, Grasas: 3.2g, Proteínas: 22.0g, Carbohidratos: 21.3g",$10.54,4.9
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Helado, Albahaca, Tomate, Pasta, Lechuga",Plato Principal,"Calorías: 315, Grasas: 16.7g, Proteínas: 6.9g, Carbohidratos: 69.6g",$18.17,3.0
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Salsa de Tomate, Albahaca, Pollo, Helado, Tomate",Postre,"Calorías: 488, Grasas: 13.5g, Proteínas: 20.4g, Carbohidratos: 34.7g",$19.51,3.1
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Queso, Lechuga, Salsa de Tomate",Ensalada,"Calorías: 553, Grasas: 14.4g, Proteínas: 13.1g, Carbohidratos: 77.5g",$15.90,4.6
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Pollo, Salsa de Tomate, Helado, Queso, Tomate",Pizza,"Calorías: 525, Grasas: 4.1g, Proteínas: 10.4g, Carbohidratos: 65.4g",$13.01,4.1
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Helado, Zanahoria, Lechuga, Albahaca, Pasta",Entrada,"Calorías: 527, Grasas: 4.3g, Proteínas: 7.6g, Carbohidratos: 52.4g",$9.64,3.7
+Tacos de Carne Asada,Delicioso Tacos de Carne Asada preparado a la perfección.,"Pollo, Zanahoria, Pasta, Salsa de Tomate",Pizza,"Calorías: 269, Grasas: 2.7g, Proteínas: 13.3g, Carbohidratos: 56.4g",$13.93,3.8
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Zanahoria, Pasta, Albahaca, Lechuga",Tacos,"Calorías: 359, Grasas: 7.0g, Proteínas: 8.4g, Carbohidratos: 25.5g",$18.76,4.1
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Pollo, Manzanas, Zanahoria",Postre,"Calorías: 587, Grasas: 19.4g, Proteínas: 6.7g, Carbohidratos: 58.9g",$17.79,4.6
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Salsa de Tomate, Albahaca, Manzanas, Tomate",Sopa,"Calorías: 387, Grasas: 18.0g, Proteínas: 7.7g, Carbohidratos: 35.3g",$19.12,3.9
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Queso, Pasta, Salsa de Tomate, Pollo, Helado",Sopa,"Calorías: 764, Grasas: 12.3g, Proteínas: 15.7g, Carbohidratos: 66.6g",$16.19,4.2
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Pasta, Manzanas, Pollo",Ensalada,"Calorías: 410, Grasas: 11.5g, Proteínas: 6.7g, Carbohidratos: 71.6g",$9.93,4.1
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Manzanas, Tomate, Albahaca",Entrada,"Calorías: 277, Grasas: 12.2g, Proteínas: 24.0g, Carbohidratos: 24.2g",$14.68,3.1
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Salsa de Tomate, Manzanas, Helado, Tomate, Albahaca",Pizza,"Calorías: 760, Grasas: 7.9g, Proteínas: 13.3g, Carbohidratos: 26.1g",$19.21,4.5
+Tacos de Carne Asada,Delicioso Tacos de Carne Asada preparado a la perfección.,"Lechuga, Queso, Tomate",Plato Principal,"Calorías: 296, Grasas: 3.2g, Proteínas: 18.7g, Carbohidratos: 46.2g",$9.42,3.6
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Tomate, Pasta, Helado, Albahaca",Postre,"Calorías: 238, Grasas: 12.0g, Proteínas: 19.2g, Carbohidratos: 70.0g",$11.71,3.5
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Salsa de Tomate, Tomate, Helado, Lechuga, Queso",Ensalada,"Calorías: 561, Grasas: 4.1g, Proteínas: 20.2g, Carbohidratos: 64.0g",$16.40,3.1
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Queso, Zanahoria, Tomate",Sopa,"Calorías: 772, Grasas: 17.1g, Proteínas: 15.4g, Carbohidratos: 27.1g",$18.85,3.3
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Albahaca, Zanahoria, Tomate",Tacos,"Calorías: 292, Grasas: 11.1g, Proteínas: 10.7g, Carbohidratos: 22.3g",$19.48,3.1
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Lechuga, Salsa de Tomate, Tomate, Queso",Postre,"Calorías: 478, Grasas: 11.9g, Proteínas: 19.5g, Carbohidratos: 22.7g",$14.71,3.3
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Queso, Pasta",Ensalada,"Calorías: 568, Grasas: 17.8g, Proteínas: 11.8g, Carbohidratos: 71.6g",$12.26,3.9
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Albahaca, Manzanas, Pollo",Pizza,"Calorías: 665, Grasas: 2.5g, Proteínas: 22.2g, Carbohidratos: 72.1g",$17.68,3.5
+Tacos de Carne Asada,Delicioso Tacos de Carne Asada preparado a la perfección.,"Pollo, Salsa de Tomate",Sopa,"Calorías: 743, Grasas: 5.0g, Proteínas: 19.1g, Carbohidratos: 51.4g",$13.33,3.8
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Pollo, Salsa de Tomate, Tomate",Ensalada,"Calorías: 384, Grasas: 9.4g, Proteínas: 10.3g, Carbohidratos: 68.7g",$14.78,4.6
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Lechuga, Helado, Queso, Pollo",Entrada,"Calorías: 432, Grasas: 9.9g, Proteínas: 6.1g, Carbohidratos: 50.2g",$6.74,3.7
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Zanahoria, Tomate",Sushi,"Calorías: 800, Grasas: 11.1g, Proteínas: 23.2g, Carbohidratos: 73.4g",$7.70,4.3
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Queso, Pollo",Tacos,"Calorías: 785, Grasas: 4.0g, Proteínas: 15.9g, Carbohidratos: 59.3g",$12.22,3.7
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Lechuga, Queso, Salsa de Tomate",Sopa,"Calorías: 312, Grasas: 3.3g, Proteínas: 21.3g, Carbohidratos: 40.9g",$18.92,4.2
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Lechuga, Albahaca, Helado, Salsa de Tomate, Zanahoria",Sushi,"Calorías: 331, Grasas: 12.1g, Proteínas: 12.9g, Carbohidratos: 79.9g",$15.69,4.0
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Queso, Pollo, Manzanas, Tomate, Albahaca",Sopa,"Calorías: 650, Grasas: 4.4g, Proteínas: 24.4g, Carbohidratos: 46.8g",$17.79,3.3
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Pollo, Zanahoria, Albahaca, Lechuga, Pasta",Hamburguesa,"Calorías: 480, Grasas: 12.0g, Proteínas: 16.0g, Carbohidratos: 42.0g",$18.34,4.9
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Manzanas, Helado, Albahaca, Queso",Tacos,"Calorías: 285, Grasas: 9.4g, Proteínas: 10.6g, Carbohidratos: 54.0g",$12.91,3.6
+Tacos de Carne Asada,Delicioso Tacos de Carne Asada preparado a la perfección.,"Helado, Manzanas, Tomate",Sopa,"Calorías: 779, Grasas: 13.3g, Proteínas: 15.8g, Carbohidratos: 59.3g",$16.31,3.4
+Pizza Margarita,Delicioso Pizza Margarita preparado a la perfección.,"Queso, Tomate",Tacos,"Calorías: 644, Grasas: 17.4g, Proteínas: 7.4g, Carbohidratos: 57.4g",$12.89,5.0
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Albahaca, Helado, Manzanas",Plato Principal,"Calorías: 512, Grasas: 15.0g, Proteínas: 6.3g, Carbohidratos: 28.9g",$14.55,3.4
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Queso, Pollo, Manzanas",Plato Principal,"Calorías: 654, Grasas: 10.6g, Proteínas: 16.1g, Carbohidratos: 74.7g",$6.86,3.8
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Helado, Queso, Lechuga",Plato Principal,"Calorías: 416, Grasas: 18.0g, Proteínas: 18.9g, Carbohidratos: 37.3g",$12.59,4.2
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Zanahoria, Pollo, Salsa de Tomate, Helado, Albahaca",Entrada,"Calorías: 343, Grasas: 13.9g, Proteínas: 24.1g, Carbohidratos: 76.4g",$12.85,4.1
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Helado, Tomate, Queso, Pollo",Hamburguesa,"Calorías: 787, Grasas: 12.1g, Proteínas: 10.9g, Carbohidratos: 58.0g",$6.67,5.0
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Lechuga, Pollo, Tomate, Helado",Sopa,"Calorías: 707, Grasas: 12.2g, Proteínas: 5.9g, Carbohidratos: 64.3g",$18.80,3.9
+Pizza Margarita,Delicioso Pizza Margarita preparado a la perfección.,"Albahaca, Helado, Zanahoria",Plato Principal,"Calorías: 665, Grasas: 3.1g, Proteínas: 8.9g, Carbohidratos: 52.9g",$14.45,4.6
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Salsa de Tomate, Pollo, Zanahoria",Plato Principal,"Calorías: 385, Grasas: 17.9g, Proteínas: 21.5g, Carbohidratos: 39.1g",$6.92,4.2
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Albahaca, Pollo",Sopa,"Calorías: 547, Grasas: 17.2g, Proteínas: 15.8g, Carbohidratos: 67.8g",$15.58,3.4
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Pasta, Zanahoria, Queso",Plato Principal,"Calorías: 680, Grasas: 19.9g, Proteínas: 20.4g, Carbohidratos: 22.6g",$5.75,4.1
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Pasta, Manzanas, Lechuga, Albahaca",Hamburguesa,"Calorías: 408, Grasas: 4.8g, Proteínas: 11.8g, Carbohidratos: 45.2g",$13.68,4.1
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Zanahoria, Salsa de Tomate",Plato Principal,"Calorías: 375, Grasas: 2.7g, Proteínas: 12.5g, Carbohidratos: 23.9g",$6.87,3.1
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Tomate, Albahaca",Entrada,"Calorías: 521, Grasas: 18.8g, Proteínas: 5.6g, Carbohidratos: 51.3g",$12.14,4.1
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Lechuga, Helado, Tomate, Manzanas, Albahaca",Entrada,"Calorías: 352, Grasas: 11.4g, Proteínas: 10.5g, Carbohidratos: 78.3g",$15.19,4.5
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Zanahoria, Lechuga, Pollo",Postre,"Calorías: 411, Grasas: 15.7g, Proteínas: 18.2g, Carbohidratos: 24.8g",$6.51,3.4
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Pasta, Tomate, Manzanas, Queso",Tacos,"Calorías: 331, Grasas: 14.9g, Proteínas: 18.2g, Carbohidratos: 49.5g",$9.52,3.9
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Pollo, Manzanas, Lechuga",Ensalada,"Calorías: 374, Grasas: 12.9g, Proteínas: 17.1g, Carbohidratos: 63.3g",$15.98,3.0
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Lechuga, Helado, Salsa de Tomate, Tomate, Manzanas",Tacos,"Calorías: 641, Grasas: 5.3g, Proteínas: 11.6g, Carbohidratos: 77.9g",$12.27,4.2
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Pollo, Albahaca, Salsa de Tomate, Lechuga",Plato Principal,"Calorías: 494, Grasas: 18.0g, Proteínas: 16.5g, Carbohidratos: 66.6g",$8.51,3.9
+Pizza Margarita,Delicioso Pizza Margarita preparado a la perfección.,"Albahaca, Helado",Postre,"Calorías: 566, Grasas: 4.7g, Proteínas: 12.9g, Carbohidratos: 48.4g",$17.17,3.9
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Manzanas, Pollo, Lechuga, Tomate, Helado",Sopa,"Calorías: 242, Grasas: 9.4g, Proteínas: 20.5g, Carbohidratos: 43.0g",$16.73,4.6
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Pollo, Tomate, Helado, Salsa de Tomate",Pizza,"Calorías: 201, Grasas: 16.0g, Proteínas: 20.1g, Carbohidratos: 49.6g",$11.56,3.5
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Pasta, Albahaca, Pollo, Queso, Zanahoria",Entrada,"Calorías: 749, Grasas: 4.0g, Proteínas: 9.5g, Carbohidratos: 79.7g",$5.39,5.0
+Ensalada César,Delicioso Ensalada César preparado a la perfección.,"Manzanas, Albahaca, Pasta, Pollo, Helado",Postre,"Calorías: 403, Grasas: 14.6g, Proteínas: 21.7g, Carbohidratos: 59.5g",$15.88,3.8
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Tomate, Albahaca, Zanahoria, Manzanas",Plato Principal,"Calorías: 206, Grasas: 13.4g, Proteínas: 21.1g, Carbohidratos: 71.9g",$16.15,3.8
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Salsa de Tomate, Zanahoria, Pollo, Manzanas",Pizza,"Calorías: 374, Grasas: 4.7g, Proteínas: 12.0g, Carbohidratos: 26.3g",$18.84,4.0
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Tomate, Zanahoria, Albahaca, Manzanas",Hamburguesa,"Calorías: 463, Grasas: 19.2g, Proteínas: 21.9g, Carbohidratos: 34.1g",$14.97,3.8
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Tomate, Helado, Zanahoria, Queso",Sushi,"Calorías: 540, Grasas: 9.3g, Proteínas: 22.6g, Carbohidratos: 28.6g",$10.22,4.5
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Lechuga, Pollo, Pasta, Albahaca",Ensalada,"Calorías: 595, Grasas: 8.2g, Proteínas: 7.6g, Carbohidratos: 59.4g",$10.45,5.0
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Albahaca, Tomate",Tacos,"Calorías: 434, Grasas: 13.9g, Proteínas: 15.2g, Carbohidratos: 76.2g",$13.25,4.0
+Tacos de Carne Asada,Delicioso Tacos de Carne Asada preparado a la perfección.,"Lechuga, Albahaca, Pollo, Zanahoria, Salsa de Tomate",Postre,"Calorías: 202, Grasas: 18.9g, Proteínas: 22.5g, Carbohidratos: 29.7g",$14.73,3.9
+Pizza Margarita,Delicioso Pizza Margarita preparado a la perfección.,"Tomate, Queso, Helado",Pizza,"Calorías: 790, Grasas: 16.0g, Proteínas: 8.0g, Carbohidratos: 56.8g",$5.48,4.0
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Salsa de Tomate, Manzanas, Queso, Albahaca",Plato Principal,"Calorías: 610, Grasas: 2.7g, Proteínas: 19.7g, Carbohidratos: 23.5g",$16.27,3.9
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Queso, Lechuga, Tomate",Entrada,"Calorías: 772, Grasas: 14.9g, Proteínas: 21.0g, Carbohidratos: 32.4g",$11.76,4.3
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Tomate, Queso, Manzanas",Entrada,"Calorías: 234, Grasas: 15.0g, Proteínas: 20.7g, Carbohidratos: 55.8g",$14.80,4.2
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Queso, Manzanas",Ensalada,"Calorías: 703, Grasas: 8.8g, Proteínas: 24.4g, Carbohidratos: 21.8g",$18.66,3.2
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Manzanas, Helado, Queso, Pollo, Tomate",Tacos,"Calorías: 603, Grasas: 7.7g, Proteínas: 22.6g, Carbohidratos: 32.2g",$12.34,3.6
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Zanahoria, Pollo, Pasta, Tomate",Postre,"Calorías: 459, Grasas: 19.2g, Proteínas: 24.1g, Carbohidratos: 22.1g",$12.45,3.3
+Paella Valenciana,Delicioso Paella Valenciana preparado a la perfección.,"Manzanas, Salsa de Tomate",Hamburguesa,"Calorías: 376, Grasas: 14.6g, Proteínas: 22.3g, Carbohidratos: 51.6g",$18.28,4.6
+Pizza Margarita,Delicioso Pizza Margarita preparado a la perfección.,"Queso, Pasta, Lechuga, Albahaca",Ensalada,"Calorías: 689, Grasas: 4.7g, Proteínas: 24.0g, Carbohidratos: 65.9g",$7.50,4.2
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Tomate, Zanahoria, Lechuga, Queso",Plato Principal,"Calorías: 599, Grasas: 6.9g, Proteínas: 20.8g, Carbohidratos: 31.8g",$7.66,3.7
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Manzanas, Albahaca",Plato Principal,"Calorías: 477, Grasas: 9.3g, Proteínas: 22.2g, Carbohidratos: 67.0g",$12.63,3.6
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Tomate, Pollo, Pasta, Queso, Lechuga",Hamburguesa,"Calorías: 788, Grasas: 9.6g, Proteínas: 18.6g, Carbohidratos: 32.7g",$8.60,3.4
+Pizza Margarita,Delicioso Pizza Margarita preparado a la perfección.,"Queso, Albahaca",Plato Principal,"Calorías: 613, Grasas: 11.8g, Proteínas: 5.0g, Carbohidratos: 52.6g",$6.89,3.2
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Pasta, Tomate",Sopa,"Calorías: 694, Grasas: 4.2g, Proteínas: 24.3g, Carbohidratos: 36.3g",$9.92,4.2
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Albahaca, Pasta",Hamburguesa,"Calorías: 673, Grasas: 14.5g, Proteínas: 16.7g, Carbohidratos: 59.4g",$17.36,3.2
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Queso, Zanahoria, Manzanas, Tomate",Tacos,"Calorías: 255, Grasas: 19.7g, Proteínas: 14.7g, Carbohidratos: 65.2g",$6.70,3.8
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Tomate, Manzanas, Lechuga, Salsa de Tomate, Helado",Tacos,"Calorías: 502, Grasas: 18.5g, Proteínas: 9.3g, Carbohidratos: 20.7g",$7.34,4.6
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Manzanas, Albahaca, Helado",Ensalada,"Calorías: 601, Grasas: 13.2g, Proteínas: 16.9g, Carbohidratos: 45.4g",$9.06,3.3
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Lechuga, Queso, Helado, Salsa de Tomate, Albahaca",Plato Principal,"Calorías: 617, Grasas: 19.0g, Proteínas: 19.8g, Carbohidratos: 60.4g",$17.98,3.3
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Helado, Albahaca, Queso, Pollo, Tomate",Pizza,"Calorías: 201, Grasas: 5.2g, Proteínas: 23.1g, Carbohidratos: 21.3g",$13.84,3.9
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Salsa de Tomate, Albahaca, Tomate, Manzanas",Sopa,"Calorías: 643, Grasas: 14.4g, Proteínas: 17.3g, Carbohidratos: 57.4g",$14.00,4.7
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Lechuga, Pasta, Salsa de Tomate",Plato Principal,"Calorías: 260, Grasas: 14.2g, Proteínas: 24.5g, Carbohidratos: 65.9g",$16.73,4.8
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Zanahoria, Lechuga, Queso, Helado, Pasta",Pizza,"Calorías: 658, Grasas: 15.3g, Proteínas: 13.1g, Carbohidratos: 72.2g",$9.81,3.9
+Tarta de Chocolate,Delicioso Tarta de Chocolate preparado a la perfección.,"Manzanas, Tomate, Zanahoria, Salsa de Tomate",Plato Principal,"Calorías: 785, Grasas: 11.5g, Proteínas: 19.2g, Carbohidratos: 64.3g",$6.86,3.7
+Tacos de Carne Asada,Delicioso Tacos de Carne Asada preparado a la perfección.,"Pasta, Zanahoria, Albahaca, Tomate, Queso",Entrada,"Calorías: 430, Grasas: 17.2g, Proteínas: 12.0g, Carbohidratos: 59.3g",$13.05,3.6
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Salsa de Tomate, Pollo, Manzanas, Queso",Sushi,"Calorías: 476, Grasas: 6.7g, Proteínas: 7.6g, Carbohidratos: 32.4g",$8.62,4.9
+Ceviche de Camarones,Delicioso Ceviche de Camarones preparado a la perfección.,"Tomate, Lechuga",Postre,"Calorías: 475, Grasas: 17.6g, Proteínas: 24.1g, Carbohidratos: 79.0g",$19.06,3.5
+Hamburguesa Clásica,Delicioso Hamburguesa Clásica preparado a la perfección.,"Albahaca, Zanahoria, Queso, Lechuga, Salsa de Tomate",Tacos,"Calorías: 374, Grasas: 8.7g, Proteínas: 16.2g, Carbohidratos: 29.9g",$6.56,4.7
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Pasta, Albahaca",Postre,"Calorías: 317, Grasas: 4.8g, Proteínas: 12.0g, Carbohidratos: 32.5g",$17.85,3.8
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Queso, Albahaca, Lechuga, Zanahoria, Tomate",Entrada,"Calorías: 270, Grasas: 9.3g, Proteínas: 10.8g, Carbohidratos: 70.9g",$15.49,3.2
+Ramen de Pollo,Delicioso Ramen de Pollo preparado a la perfección.,"Helado, Pollo, Zanahoria",Pizza,"Calorías: 673, Grasas: 6.9g, Proteínas: 13.9g, Carbohidratos: 35.3g",$8.17,3.2
+Pasta Carbonara,Delicioso Pasta Carbonara preparado a la perfección.,"Helado, Zanahoria, Queso",Pizza,"Calorías: 707, Grasas: 5.1g, Proteínas: 22.6g, Carbohidratos: 48.0g",$8.45,4.2
+Sushi Mixto,Delicioso Sushi Mixto preparado a la perfección.,"Albahaca, Salsa de Tomate",Postre,"Calorías: 486, Grasas: 6.0g, Proteínas: 13.1g, Carbohidratos: 65.5g",$16.31,4.7
